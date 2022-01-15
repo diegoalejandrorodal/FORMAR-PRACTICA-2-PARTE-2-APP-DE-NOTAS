@@ -1,4 +1,4 @@
-# FORMAR-PROYECTO-2-PARTE-2-APP-DE-NOTAS
+# FORMAR-PRACTICA-2-PARTE-2-APP-DE-NOTAS
 ## Objetivo
 Finalizar la app de tareas utilizando las herramientas que aprendimos en todo el módulo
 de JS101 partiendo de la ejercitación de la clase 2 finalizada.
