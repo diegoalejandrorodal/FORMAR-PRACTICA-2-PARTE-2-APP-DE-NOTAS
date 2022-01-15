@@ -38,7 +38,7 @@ llamada guardarTarea. La función recibirá una objeto tarea y la guardará en
 el archivo .json junto con todas las tareas que ya estén allí. La función
 deberá:
 
-2
+
 
 i. Obtener toda la información del archivo .json en donde tenemos
 nuestras tareas. Recordemos que esta acción la hace la función
@@ -76,7 +76,7 @@ archivo .json. Tenemos una función que ya sabe hacerlo. ¿Cuál es?
 c. Ahora vamos a necesitar obtener únicamente las tareas cuyo estado coincida
 con el parámetro ingresado. Para lograrlo sabemos que los arrays tienen
 
-3
+
 
 métodos propios que nos podrían ayudar. ¿Cuál de ellos puede ayudarnos a
 filtrar un array?
