@@ -1,12 +1,12 @@
 # FORMAR-PROYECTO-2-PARTE-2-APP-DE-NOTAS
-##Objetivo
+## Objetivo
 Finalizar la app de tareas utilizando las herramientas que aprendimos en todo el módulo
 de JS101 partiendo de la ejercitación de la clase 2 finalizada.
 * En caso de no haber finalizado la actividad anterior, se dará resuelta para que todos
 partamos del mismo punto.
 
 
-##Micro desafíos
+## Micro desafíos
 
 El tech leader de nuestro equipo de desarrollo propone refactorizar la app de tareas. Para
 esto nos encarga:
